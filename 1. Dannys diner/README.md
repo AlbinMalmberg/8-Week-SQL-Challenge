@@ -2,9 +2,7 @@
 
 Case Study from Data with Danny, more information about the project can be found on https://8weeksqlchallenge.com/case-study-1/
 
-Entity Relationship Diagram:
 
-![alt text](image.png)
 
 1. What is the total amount each customer spent at the restaurant?
     ```sql
